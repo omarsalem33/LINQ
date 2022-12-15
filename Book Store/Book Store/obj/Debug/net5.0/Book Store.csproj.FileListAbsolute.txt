@@ -1,0 +1,16 @@
+D:\.Net Learninig\Book Store\Book Store\obj\Debug\net5.0\Book Store.csproj.AssemblyReference.cache
+D:\.Net Learninig\Book Store\Book Store\obj\Debug\net5.0\Book Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Learninig\Book Store\Book Store\obj\Debug\net5.0\Book Store.AssemblyInfoInputs.cache
+D:\.Net Learninig\Book Store\Book Store\obj\Debug\net5.0\Book Store.AssemblyInfo.cs
+D:\.Net Learninig\Book Store\Book Store\obj\Debug\net5.0\Book Store.csproj.CoreCompileInputs.cache
+D:\.Net Learninig\Book Store\Book Store\bin\Debug\net5.0\Book Store.exe
+D:\.Net Learninig\Book Store\Book Store\bin\Debug\net5.0\Book Store.deps.json
+D:\.Net Learninig\Book Store\Book Store\bin\Debug\net5.0\Book Store.runtimeconfig.json
+D:\.Net Learninig\Book Store\Book Store\bin\Debug\net5.0\Book Store.runtimeconfig.dev.json
+D:\.Net Learninig\Book Store\Book Store\bin\Debug\net5.0\Book Store.dll
+D:\.Net Learninig\Book Store\Book Store\bin\Debug\net5.0\Book Store.pdb
+D:\.Net Learninig\Book Store\Book Store\obj\Debug\net5.0\Book Store.dll
+D:\.Net Learninig\Book Store\Book Store\obj\Debug\net5.0\refint\Book Store.dll
+D:\.Net Learninig\Book Store\Book Store\obj\Debug\net5.0\Book Store.pdb
+D:\.Net Learninig\Book Store\Book Store\obj\Debug\net5.0\Book Store.genruntimeconfig.cache
+D:\.Net Learninig\Book Store\Book Store\obj\Debug\net5.0\ref\Book Store.dll

@@ -1,0 +1,16 @@
+D:\ConsoleApp1\PoolThreading\bin\Debug\net5.0\PoolThreading.exe
+D:\ConsoleApp1\PoolThreading\bin\Debug\net5.0\PoolThreading.deps.json
+D:\ConsoleApp1\PoolThreading\bin\Debug\net5.0\PoolThreading.runtimeconfig.json
+D:\ConsoleApp1\PoolThreading\bin\Debug\net5.0\PoolThreading.runtimeconfig.dev.json
+D:\ConsoleApp1\PoolThreading\bin\Debug\net5.0\PoolThreading.dll
+D:\ConsoleApp1\PoolThreading\bin\Debug\net5.0\PoolThreading.pdb
+D:\ConsoleApp1\PoolThreading\obj\Debug\net5.0\PoolThreading.csproj.AssemblyReference.cache
+D:\ConsoleApp1\PoolThreading\obj\Debug\net5.0\PoolThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp1\PoolThreading\obj\Debug\net5.0\PoolThreading.AssemblyInfoInputs.cache
+D:\ConsoleApp1\PoolThreading\obj\Debug\net5.0\PoolThreading.AssemblyInfo.cs
+D:\ConsoleApp1\PoolThreading\obj\Debug\net5.0\PoolThreading.csproj.CoreCompileInputs.cache
+D:\ConsoleApp1\PoolThreading\obj\Debug\net5.0\PoolThreading.dll
+D:\ConsoleApp1\PoolThreading\obj\Debug\net5.0\refint\PoolThreading.dll
+D:\ConsoleApp1\PoolThreading\obj\Debug\net5.0\PoolThreading.pdb
+D:\ConsoleApp1\PoolThreading\obj\Debug\net5.0\PoolThreading.genruntimeconfig.cache
+D:\ConsoleApp1\PoolThreading\obj\Debug\net5.0\ref\PoolThreading.dll

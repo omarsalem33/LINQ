@@ -1,0 +1,16 @@
+D:\.Net Learninig\LINQ02\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.csproj.AssemblyReference.cache
+D:\.Net Learninig\LINQ02\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Learninig\LINQ02\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.AssemblyInfoInputs.cache
+D:\.Net Learninig\LINQ02\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.AssemblyInfo.cs
+D:\.Net Learninig\LINQ02\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+D:\.Net Learninig\LINQ02\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.exe
+D:\.Net Learninig\LINQ02\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.deps.json
+D:\.Net Learninig\LINQ02\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.runtimeconfig.json
+D:\.Net Learninig\LINQ02\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.runtimeconfig.dev.json
+D:\.Net Learninig\LINQ02\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.dll
+D:\.Net Learninig\LINQ02\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.pdb
+D:\.Net Learninig\LINQ02\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.dll
+D:\.Net Learninig\LINQ02\FunctionalProgramming\obj\Debug\net5.0\refint\FunctionalProgramming.dll
+D:\.Net Learninig\LINQ02\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.pdb
+D:\.Net Learninig\LINQ02\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.genruntimeconfig.cache
+D:\.Net Learninig\LINQ02\FunctionalProgramming\obj\Debug\net5.0\ref\FunctionalProgramming.dll
