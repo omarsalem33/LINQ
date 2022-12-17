@@ -1,0 +1,12 @@
+D:\.Net Learninig\Solution1\Shered\obj\Debug\net5.0\Shered.csproj.AssemblyReference.cache
+D:\.Net Learninig\Solution1\Shered\obj\Debug\net5.0\Shered.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Learninig\Solution1\Shered\obj\Debug\net5.0\Shered.AssemblyInfoInputs.cache
+D:\.Net Learninig\Solution1\Shered\obj\Debug\net5.0\Shered.AssemblyInfo.cs
+D:\.Net Learninig\Solution1\Shered\obj\Debug\net5.0\Shered.csproj.CoreCompileInputs.cache
+D:\.Net Learninig\Solution1\Shered\bin\Debug\net5.0\Shered.deps.json
+D:\.Net Learninig\Solution1\Shered\bin\Debug\net5.0\Shered.dll
+D:\.Net Learninig\Solution1\Shered\bin\Debug\net5.0\Shered.pdb
+D:\.Net Learninig\Solution1\Shered\obj\Debug\net5.0\Shered.dll
+D:\.Net Learninig\Solution1\Shered\obj\Debug\net5.0\refint\Shered.dll
+D:\.Net Learninig\Solution1\Shered\obj\Debug\net5.0\Shered.pdb
+D:\.Net Learninig\Solution1\Shered\obj\Debug\net5.0\ref\Shered.dll

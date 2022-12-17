@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net Learninig\\LINQ02\\FunctionalProgramming\\FunctionalProgramming.csproj",
+      "projectUniqueName": "D:\\.Net Learninig\\Functional Programming\\FunctionalProgramming\\FunctionalProgramming.csproj",
       "projectName": "FunctionalProgramming",
-      "projectPath": "D:\\.Net Learninig\\LINQ02\\FunctionalProgramming\\FunctionalProgramming.csproj",
+      "projectPath": "D:\\.Net Learninig\\Functional Programming\\FunctionalProgramming\\FunctionalProgramming.csproj",
       "packagesPath": "C:\\Users\\Omar\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net Learninig\\LINQ02\\FunctionalProgramming\\obj\\",
+      "outputPath": "D:\\.Net Learninig\\Functional Programming\\FunctionalProgramming\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Omar\\AppData\\Roaming\\NuGet\\NuGet.Config",

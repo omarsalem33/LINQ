@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ThenBy/1.0.0": {
+        "dependencies": {
+          "Shered": "1.0.0"
+        },
+        "runtime": {
+          "ThenBy.dll": {}
+        }
+      },
+      "Shered/1.0.0": {
+        "runtime": {
+          "Shered.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThenBy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shered/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
